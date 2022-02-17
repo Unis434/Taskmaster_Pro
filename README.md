@@ -46,5 +46,5 @@ GitHub: https://github.com/unis434
 Email: unisk434@gmail.com
 
 ## Credits
-Unisa Kamara 
+Unisa Kamara <br>
 Icons from flaticon.com

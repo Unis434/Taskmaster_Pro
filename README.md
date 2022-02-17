@@ -10,7 +10,7 @@
 * [Credits](#credits)
 
 ## Deployed
-Access the website at https://sarawrmas.github.io/taskmaster/
+Access the website at https://unis434.github.io/taskmaster/
 
 ## Description
 Task Master Pro is the new pro edition of Taskinator. This new update features a clean interface for an improved user experience and draggable functionality to update tasks.
@@ -42,9 +42,9 @@ To delete all tasks, select "Delete All Tasks" from the left-hand menu.
 
 ## Questions
 Have questions about this project?  
-GitHub: https://github.com/sarawrmas  
-Email: sara.m.adamski@gmail.com
+GitHub: https://github.com/unis434  
+Email: unisk434@gmail.com
 
 ## Credits
-Sara Adamski  
+Unisa Kamara 
 Icons from flaticon.com
